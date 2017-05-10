@@ -37,7 +37,7 @@
                                 @endif
                             </div>
 
-                            <button class="btn btn-success pull-right" type="submit">发布问题</button>
+                            <button class="btn btn-success pull-right" type="submit">发布article</button>
                         </form>
                     </div>
                 </div>
